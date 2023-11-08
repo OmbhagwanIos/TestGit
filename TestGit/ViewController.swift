@@ -30,6 +30,10 @@ class ViewController: UIViewController {
         print("lsdjflkasdjflksajflkjas")
     }
 
+     func validateUser3() {
+        print("update form git")
+    }
+
 
 }
 
