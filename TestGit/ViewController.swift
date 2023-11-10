@@ -20,6 +20,14 @@ class ViewController: UIViewController {
     
     func validateUser() {
         print("lsdjflkasdjflksajflkjas")
+        print("lsdjflkasdjflksajflkjas")
+        print("lsdjflkasdjflksajflkjas")
+        print("lsdjflkasdjflksajflkjas")
+        print("lsdjflkasdjflksajflkjas")
+        print("lsdjflkasdjflksajflkjas")
+        print("lsdjflkasdjflksajflkjas")
+        print("lsdjflkasdjflksajflkjas")
+        print("lsdjflkasdjflksajflkjas")
     }
     
     func validateUser2() {
